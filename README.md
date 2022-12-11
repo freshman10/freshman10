@@ -1,16 +1,30 @@
-### Hi there 👋
+# Alexander Marunich
+### Junior Front-End Developer
+***
+## Contacts:
+##### +375 (29) 253-01-49 (MTS, Viber, telegram)
+##### Email: proproprosto10@gmail.com
+##### Linkedln: [https://linkedin.com/AlexanderMarunich](https://www.linkedin.com/in/alexander-marunich/)
+***
+## Skills:
++ **React**
++ **JavaScript (ES5, ES6)**
++ **TypeScript**
++ **Redux**
++ **HTML5**
++ **CSS3 (SASS)**
++ **Gulp, Webpack**
++ **NodeJs**
++ **Git**
++ **Figma**
 
-<!--
-**freshman10/freshman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/freshman10/badges/large"/>](codewars)</br>  
 
-Here are some ideas to get you started:
+***
+## Courses:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2021-2022
+: **JavaScript/Front-end**
+*The Rolling Scopes School, Front-end Developer*
+
+## English level: B1-B2
