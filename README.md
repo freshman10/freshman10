@@ -1,10 +1,10 @@
-# Alexander Marunich
+# Aliaksandr Marunich 
 ### Junior Front-End Developer
 ***
 ## Contacts:
 ##### +375 (29) 253-01-49 (MTS, Viber, telegram)
 ##### Email: proproprosto10@gmail.com
-##### Linkedln: [https://linkedin.com/AlexanderMarunich](https://www.linkedin.com/in/alexander-marunich/)
+##### Linkedln: [https://linkedin.com/AliaksandrMarunich](https://www.linkedin.com/in/alexander-marunich/)
 ***
 ## Skills:
 + **React**
