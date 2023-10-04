@@ -1,5 +1,5 @@
 # Aliaksandr Marunich 
-### Junior Front-End Developer
+### Front-End Developer
 ***
 ## Contacts:
 ##### +375 (29) 253-01-49 (MTS, Viber, telegram)
